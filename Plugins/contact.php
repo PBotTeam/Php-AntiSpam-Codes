@@ -1,4 +1,4 @@
-elseif ($textmessage == '/sudo') {
+elseif ($textmessage == '/contact') {
 
 makereq('sendContact',[
 'chat_id'=>$chat_id,
